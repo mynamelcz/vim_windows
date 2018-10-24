@@ -1,0 +1,2 @@
+windows 下把ctag 等工具 放到     C:\Windows\System32  路径
+linux         下把工具当地 /usr/bin 路径
