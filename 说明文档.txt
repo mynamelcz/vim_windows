@@ -6,3 +6,7 @@ filenametags.sh 添加到linux环境变量中
 
 getfiletags  ---------------->  filenametags
 cscope -Rbq -------------->  cscope.out
+
+
+
+windows  VIM 也可以在  Git 或 Cygwin软件下安装
